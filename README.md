@@ -1,4 +1,3 @@
-
 # Street Fighter
 ### Introdução:
 Trabalho desenvolvido na matéria de Programação 2, com o objetivo de implementar o jogo Street Fighter utilizando a biblioteca Allegro da linguagem de programação C.
